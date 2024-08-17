@@ -8,6 +8,10 @@ Dart(colore o codigo, ofereçe suporte pra linguagem melhor)
 ## crie o sistema digitando:
 `flutter create projeto_flutter`
 
+## criar um emulador:
+
+`flutter emulators --launch emulador_teste`
+
 ## para executar:
 cd projeto_flutter(entre na pasta do projeto)
 
